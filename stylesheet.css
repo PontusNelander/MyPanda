@@ -4,6 +4,7 @@ body{
     margin-left: 25%;
     margin-right: 25%;   
     columns: 1000px;
+    background-color: cyan;
 }
 img{
    width: 945px;
@@ -16,10 +17,7 @@ img{
     
     
 }
-#main {
-	width:600px;
-	margin:40px auto;
-}
+
 html{
     align-content: center;
 }
@@ -29,6 +27,7 @@ table{
     margin: 1em 0;
     border: 1px solid #a2a9b1;
     border-collapse: collapse;
+    width: 945px;
 
 }
 td{
