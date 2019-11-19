@@ -16,11 +16,18 @@ img{
 h1{
     font-size: 70px;
     font-family: "Comic Sans MS", arial;
-    color: hotpink;
+    color: black;
+    background-color: #c9bcff;
     
+
+   
     
     
 }   
+#header{
+    padding-top: 50px;
+
+}
     
 
 #main{
