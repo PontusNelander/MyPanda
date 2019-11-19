@@ -19,6 +19,7 @@ h1{
     color: hotpink;
     
     
+    
 }   
     
 
@@ -26,9 +27,13 @@ h1{
     width:600px;
     margin:40px auto;
     background-color: white;
+    padding-top: 30px;
+    padding-left: 30px;
+    padding-right: 30px;
+
     border-style: solid;
-    border-color: white;
-    border-width: 50px;
+    border-color: pink;
+    border-width: 20px;
     
     
     
