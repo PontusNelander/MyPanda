@@ -16,6 +16,10 @@ img{
     
     
 }
+#main {
+	width:600px;
+	margin:40px auto;
+}
 html{
     align-content: center;
 }
