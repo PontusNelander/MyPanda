@@ -24,7 +24,16 @@ h1{
     color: darkgreen;
     text-shadow: 4px 4px 50px green;
     
+    background-color: #c9bcff;
+    
+
+   
+    
+    
 }   
+#header{
+    padding-top: 50px;
+
 h2{
     text-shadow: 4px 4px 50px green;
     color: darkgreen;
