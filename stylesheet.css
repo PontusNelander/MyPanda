@@ -12,12 +12,13 @@ img{
 h1{
     font-size: 70px;
     font-family: "Comic Sans MS", arial;
-    color: black;
+    color: darkgreen;
     text-shadow: 4px 4px 50px green;
     
 }   
 h2{
     text-shadow: 4px 4px 50px green;
+    color: darkgreen;
 }
     
 
